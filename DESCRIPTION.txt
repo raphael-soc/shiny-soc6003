@@ -1,0 +1,7 @@
+Package: shiny-soc6003
+Title: Shiny App for SOC6003
+Version: 1.0
+Imports:
+    shiny,
+    shinythemes,
+    rsconnect
