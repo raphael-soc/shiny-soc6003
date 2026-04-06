@@ -1,3 +1,3 @@
-install.packages("shiny")
-install.packages("shinythemes")
-install.packages("rsconnect")
+library(shiny)
+library(shinythemes)
+library(rsconnect)
